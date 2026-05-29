@@ -1,4 +1,4 @@
-package Patterns;
+package Patterns.creational;
 
 
 /**
@@ -14,6 +14,9 @@ public class Singleton {
     }
 }
 
+/**
+ * When you need single instance shared across, you create singleton
+ */
 class DatabaseConnection {
     private static DatabaseConnection connection;
     private DatabaseConnection(){

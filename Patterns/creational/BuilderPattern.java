@@ -1,10 +1,10 @@
-package Patterns;
+package Patterns.creational;
 
 import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Use when there are many optional fields of an entity or class
+ * Use when there are many optional fields and object creation is complex of an entity or class
  */
 public class BuilderPattern {
     public static void main(String[] args) {

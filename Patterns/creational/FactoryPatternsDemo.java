@@ -1,6 +1,4 @@
-package Patterns;
-
-import java.util.Objects;
+package Patterns.creational;
 
 class FactoryPatternsDemo {
     public static void main(String[] args) {
