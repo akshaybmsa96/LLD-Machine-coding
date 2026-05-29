@@ -3,3 +3,6 @@
 /workspace.xml
 /.iml
 /out
+/out/*
+out
+out/*
