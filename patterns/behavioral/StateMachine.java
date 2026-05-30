@@ -1,4 +1,4 @@
-package Patterns.behavioral;
+package patterns.behavioral;
 
 public class StateMachine {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Patterns.creational;
+package patterns.creational;
 
 class FactoryPatternsDemo {
     public static void main(String[] args) {

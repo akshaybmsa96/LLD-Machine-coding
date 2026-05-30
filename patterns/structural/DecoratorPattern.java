@@ -1,4 +1,4 @@
-package Patterns.structural;
+package patterns.structural;
 
 public class DecoratorPattern {
     public static void main(String[] args) {

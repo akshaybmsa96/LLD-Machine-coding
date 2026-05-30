@@ -1,4 +1,4 @@
-package Patterns.creational;
+package patterns.creational;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package Patterns.behavioral;
+package patterns.behavioral;
 
 import java.math.BigDecimal;
 

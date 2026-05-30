@@ -1,4 +1,4 @@
-package Patterns.structural;
+package patterns.structural;
 import java.util.Objects;
 
 public class Facade {
